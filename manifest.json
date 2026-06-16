@@ -1,0 +1,12 @@
+{
+  "name": "Daily Facts",
+  "short_name": "Daily Facts",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1d9e75",
+  "theme_color": "#1d9e75",
+  "icons": [
+    { "src": "icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}
